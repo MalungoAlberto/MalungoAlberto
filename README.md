@@ -21,7 +21,7 @@ Senior Data Analyst | BI & Data Visualization (QuickSight, Power BI, Tableau, Ql
 ##
 **MY PROJECTS:** https://bit.ly/3n0dEY6
 
-<img width="1414" height="484" alt="image" src="![Uploading image.png…]()
+<img width="1414" height="484" alt="image" src="Screenshot 2026-10-28 160325.png()
 " />
 
 
