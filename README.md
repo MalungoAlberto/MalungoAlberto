@@ -21,7 +21,7 @@ Senior Data Analyst | BI & Data Visualization (QuickSight, Power BI, Tableau, Ql
 ##
 **MY PROJECTS:** https://bit.ly/3n0dEY6
 
-<img src="./Screenshot%202026-10-28%20160325.png"
+<img src="./BG.svg"
      alt="Portfólio de Dados — Malungo Sebastião"
      width="100%">
 
